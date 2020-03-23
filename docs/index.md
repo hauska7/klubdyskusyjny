@@ -22,10 +22,6 @@ Mysz laserowa HP QY778AA
 1. Zainstaluj Steam
 2. Kup Rusted Warfare gre RTS za 17.99zl
 3. Zainstaluj Rusted Warfare
-grzegorzhauska
-friend link: https://s.team/p/pgg-pjnj/
 
-henrykhauska
-friend code: 1071910187
-friend link: https://s.team/p/fwvg-btdq/
+for lan party use ad hoc network
 -->
