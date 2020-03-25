@@ -1,3 +1,5 @@
+### [Lista osob](https://towers-of-trust.herokuapp.com/show_group/1?tab=members)
+
 ### Rekomendacja 1% podatku w 2020
 #### [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1), [jeze](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=2), [Eryk Firlej](https://towers-of-trust.herokuapp.com/show_group/1?tab=members)
 
@@ -13,15 +15,30 @@ KRS: 0000507234
 
 cel: 22172
 
-### [Lista osob](https://towers-of-trust.herokuapp.com/show_group/1?tab=members)
+
+### LAN party z chaty
+
+Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1)
+
+Termin: piateczek?
+
+Koszt: 18zl (Gra)
+
+#### Przygotowania - do ogarniecia PRZED a nie W TRAKCIE :D
+
+Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
+
+1. Zaloz konto / zainstaluj steam https://store.steampowered.com/
+2. Kup gre https://store.steampowered.com/app/647960/Rusted_Warfare__RTS/ (18zl)
+3. Sciagnij gre na komputer uzywajac programu steam i sprawdz czy sie uruchamia.
+
+#### Ogolnie rzeczy ktore zostaly do ogarniecia:
+- server discord
+- kto bedzie odowiedzialny za serwer
 
 
-<!---
-Mysz laserowa HP QY778AA
+##### Takie tam
 
-1. Zainstaluj Steam
-2. Kup Rusted Warfare gre RTS za 17.99zl
-3. Zainstaluj Rusted Warfare
+Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
-for lan party use ad hoc network
--->
+Propozycje gier na kiedy indziej: Wormsy, Heroes 3, Kozacy 3, age
