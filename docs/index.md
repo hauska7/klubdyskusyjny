@@ -20,7 +20,7 @@ cel: 22172
 
 Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1)
 
-Termin: piateczek?
+Termin: piateczek 27.03.2020 19:00
 
 Koszt: 18zl (Gra)
 
@@ -32,10 +32,12 @@ Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
 2. Kup gre https://store.steampowered.com/app/647960/Rusted_Warfare__RTS/ (18zl)
 3. Sciagnij gre na komputer uzywajac programu steam i sprawdz czy sie uruchamia.
 
-#### Ogolnie rzeczy ktore zostaly do ogarniecia:
-- server discord
-- kto bedzie odowiedzialny za serwer
+#### Ogarniacze
+- server discord, Jacek Brek
 
+#### Ogolnie rzeczy ktore zostaly do ogarniecia:
+- kto bedzie odowiedzialny za serwer RW
+- kto bedzie odowiedzialny za zapasowy serwer RW
 
 ##### Takie tam
 
