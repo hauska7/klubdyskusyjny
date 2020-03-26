@@ -34,6 +34,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   # Note that rspec-rails 4.0 is still a pre release
   gem 'rspec-rails', '~> 4.0.0.rc1'
+  gem 'pry'
 end
 
 group :development do

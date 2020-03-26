@@ -21,13 +21,13 @@ ActiveRecord::Schema.define(version: 2020_03_18_172931) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
-  create_table "categorisations", force: :cascade do |t|
+  create_table "categorizations", force: :cascade do |t|
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.bigint "topic_id", null: false
     t.bigint "category_id", null: false
-    t.index ["category_id"], name: "index_categorisations_on_category_id"
-    t.index ["topic_id"], name: "index_categorisations_on_topic_id"
+    t.index ["category_id"], name: "index_categorizations_on_category_id"
+    t.index ["topic_id"], name: "index_categorizations_on_topic_id"
   end
 
   create_table "topics", force: :cascade do |t|
@@ -36,6 +36,6 @@ ActiveRecord::Schema.define(version: 2020_03_18_172931) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
-  add_foreign_key "categorisations", "categories"
-  add_foreign_key "categorisations", "topics"
+  add_foreign_key "categorizations", "categories"
+  add_foreign_key "categorizations", "topics"
 end
