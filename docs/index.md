@@ -34,9 +34,9 @@ Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
 
 #### Ogarniacze
 - server discord, Jacek Brek
+- hostowanie gry, Pawel Szczeszek
 
 #### Ogolnie rzeczy ktore zostaly do ogarniecia:
-- kto bedzie odowiedzialny za serwer RW
 - kto bedzie odowiedzialny za zapasowy serwer RW
 
 ##### Takie tam
@@ -44,3 +44,5 @@ Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
 Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
 Propozycje gier na kiedy indziej: Wormsy, Heroes 3, Kozacy 3, age
+
+[Jak przekierowac porty zeby byc serwerem](https://portforward.com/rusted-warfare/)
