@@ -9,4 +9,8 @@ class Topic < ApplicationRecord
   def add_content(lang, text)
     content[lang.to_s] = text
   end
+
+  def present
+    content["pl"]
+  end
 end

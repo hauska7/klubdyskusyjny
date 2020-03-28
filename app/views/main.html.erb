@@ -1,3 +1,34 @@
-<% @categories.each do |category| %>
-  <%= category.present %>
-<% end %>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+<form action="<%= X.path_for('show_random_topic_redirect', { category: @category }) %>" method="GET">
+  <input type="hidden" name="what", value="random_topic_redirect">
+  <div class="form-group">
+    <label for="category">Kategoria</label>
+    <select id="category" name="category_id" class="form-control">
+      <option disabled selected value></option>
+      <% @categories.each_with_index do |category, i| %>
+        <option value="<%= category.id %>" <%= "selected" if category.id == @category&.id %> ><%= category.present %></option>
+      <% end %>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="topic">Temat</label>
+    <% if @topic %>
+      <p id="topic"><%= @topic.present %></p>
+    <% end %>
+  </div>
+  <button type="submit" class="btn btn-primary">Losuj temat</button>
+</form>
+
+    </div>
+    <div class="col-sm">
+    <ul>
+      <li>Wybierz temat</li>
+      <li>Jedna osoba robi krotkie wprowadzenie</li>
+      <li>Dyskusja</li>
+      <li>Na koniec kazdy po kolei ma mozliwosc zwiezle sie wypowiedziec bez przerywania</li>
+    </ul>
+    </div>
+  </div>
+</div>
