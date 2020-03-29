@@ -12,7 +12,13 @@
   <body>
   <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
       <a class="navbar-brand" href="<%=  %>">klub dyskusyjny app</a>
-
+      <% if session[:user] == "admin" %>
+        <% if @topic %>
+          <a class="navbar-brand" href="<%= X.path_for('edit_topic', { topic: @topic }) %>">Edytuj temat</a>
+        <% end %>
+        <a class="navbar-brand" href="<%= X.path_for('new_topic') %>">Dodaj temat</a>
+        <a class="navbar-brand" href="<%= X.path_for('logout') %>">Wyloguj</a>
+      <% end %>
     </nav>
 
     <p class="notice"><%= notice %></p>

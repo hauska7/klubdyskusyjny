@@ -1,9 +1,24 @@
+require "json"
+
 class X
+  def self.parse_json(json)
+    JSON.parse(json)
+  end
+
+  def self.to_json(topic)
+    if topic.is_a?(Topic)
+      topic.content.to_json
+    else fail
+    end
+  end
+
   def self.transaction(&block)
     ActiveRecord::Base.transaction(&block)
   end
 
   def self.query(what, a = nil)
+    a = a.permit!.to_h.symbolize_keys if a.is_a?(ActionController::Parameters)
+
     case what
     when "category"
       if a.key?(:name)
@@ -29,10 +44,18 @@ class X
     end
   end
 
-  def self.path_for(what, a = nil)
+  def self.path_for(what, a = {})
     options = { only_path: true }
 
     case what
+    when "login"
+      custom_options = { controller: "main", action: "login", user: "admin" }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
+    when "logout"
+      custom_options = { controller: "main", action: "logout" }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
     when "show_random_topic_redirect"
       custom_options = { controller: "main", action: "show", what: "random_topic_redirect", category_id: a[:category]&.id }.compact
       custom_options.merge!(options)
@@ -45,6 +68,26 @@ class X
       end
       custom_options = { controller: "main", action: "show", what: "topic", topic_id: a[:topic].id }
       custom_options.merge!(category_options)
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
+    when "edit_topic"
+      custom_options = { controller: "main", action: "show", what: "topic", topic_id: a[:topic].id, edit: "true" }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
+    when "new_topic"
+      custom_options = { controller: "main", action: "show", what: "new" }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
+    when "delete_topic"
+      custom_options = { controller: "main", action: "delete", what: "topic", topic_id: a[:topic].id }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
+    when "update_topic"
+      custom_options = { controller: "main", action: "update", what: "topic", topic_id: a[:topic].id }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
+    when "create_topic"
+      custom_options = { controller: "main", action: "create", what: "topic" }
       custom_options.merge!(options)
       Rails.application.routes.url_helpers.url_for(custom_options)
     else fail

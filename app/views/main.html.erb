@@ -1,12 +1,14 @@
 <div class="container">
   <div class="row">
     <div class="col-sm">
+
+<% if @show %>
 <form action="<%= X.path_for('show_random_topic_redirect', { category: @category }) %>" method="GET">
   <input type="hidden" name="what", value="random_topic_redirect">
   <div class="form-group">
     <label for="category">Kategoria</label>
     <select id="category" name="category_id" class="form-control">
-      <option disabled selected value></option>
+      <option <%= 'selected' if @category.nil? %> value></option>
       <% @categories.each_with_index do |category, i| %>
         <option value="<%= category.id %>" <%= "selected" if category.id == @category&.id %> ><%= category.present %></option>
       <% end %>
@@ -20,14 +22,80 @@
   </div>
   <button type="submit" class="btn btn-primary">Losuj temat</button>
 </form>
+    <% end %>
 
+<% if @edit %>
+  <% if @topic %>
+
+<form action="<%= X.path_for('update_topic', { topic: @topic }) %>" method="POST">
+<input type="hidden" 
+       value="<%= form_authenticity_token() %>" 
+       name="authenticity_token"/>
+  <input type="hidden" name="what", value="topic">
+  <input type="hidden" name="topic_id", value="<%= @topic.id %>">
+  <div class="form-group">
+    <label for="category">Kategoria</label>
+    <select id="category" name="category_id" class="form-control">
+      <option <%= 'selected'; nil if @category.nil? %> value></option>
+      <% @categories.each_with_index do |category, i| %>
+        <option value="<%= category.id %>" <%= "selected" if category.id == @category&.id %> ><%= category.present %></option>
+      <% end %>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="topic">Temat</label>
+    <% if @topic %>
+      <textarea class="form-control" name="content" rows="4"><%= X.to_json(@topic) %></textarea>
+    <% end %>
+  </div>
+  <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+
+
+    <form action="<%= X.path_for('delete_topic', { topic: @topic }) %>" method="POST">
+<input type="hidden" 
+       value="<%= form_authenticity_token() %>" 
+       name="authenticity_token"/>
+      <button type="submit" class="btn btn-primary">Usun temat</button>
+    </form>
+  <% end %>
+<% end %>
+
+<% if @new %>
+
+<form action="<%= X.path_for('create_topic') %>" method="POST">
+<input type="hidden" 
+       value="<%= form_authenticity_token() %>" 
+       name="authenticity_token"/>
+  <input type="hidden" name="what", value="topic">
+  <div class="form-group">
+    <label for="category">Kategoria</label>
+    <select id="category" name="category_id" class="form-control">
+      <option <%= 'selected'; nil if @category.nil? %> value></option>
+      <% @categories.each_with_index do |category, i| %>
+        <option value="<%= category.id %>" <%= "selected" if category.id == @category&.id %> ><%= category.present %></option>
+      <% end %>
+    </select>
+  </div>
+  <div class="form-group">
+    <label for="topic">Nowa kategoria?</label>
+    <input type="text" class="form-control" name="category_name"></input>
+  </div>
+  <div class="form-group">
+    <label for="topic">Temat (PL)</label>
+    <input type="text" class="form-control" name="topic_content"></input>
+  </div>
+  <button type="submit" class="btn btn-primary">Create</button>
+</form>
+<% end %>
     </div>
     <div class="col-sm">
     <ul>
       <li>Wybierz temat</li>
       <li>Jedna osoba robi krotkie wprowadzenie</li>
       <li>Dyskusja</li>
-      <li>Na koniec kazdy po kolei ma mozliwosc zwiezle sie wypowiedziec bez przerywania</li>
+      <li>Na koniec kazdy po kolei ma mozliwosc zwiezle podsumowac swoje stanowisko bez przerywania</li>
     </ul>
     </div>
   </div>
