@@ -29,4 +29,12 @@ Termin: ???
 
 Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
+###### Rusted Warfare
+
+Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
+
+ 1. Zaloz konto steam https://store.steampowered.com
+ 2. Kup gre https://store.steampowered.com/app/647960/Rusted_Warfare__RTS/ (18zl)
+ 3. Sciagnij gre na komputer uzywajac programu steam i sprawdz czy sie uruchamia.
+
 [Jak przekierowac porty zeby byc serwerem](https://portforward.com/rusted-warfare/)
