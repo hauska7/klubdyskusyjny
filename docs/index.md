@@ -16,28 +16,14 @@ KRS: 0000507234
 cel: 22172
 
 
-### LAN party z chaty
+### LAN party z chaty vol. 2
 
 Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1)
 
-Termin: piateczek 27.03.2020 19:00
-
-Koszt: 18zl (Gra)
-
-#### Przygotowania - do ogarniecia PRZED a nie W TRAKCIE :D
-
-Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
-
-1. Zaloz konto / zainstaluj steam https://store.steampowered.com/
-2. Kup gre https://store.steampowered.com/app/647960/Rusted_Warfare__RTS/ (18zl)
-3. Sciagnij gre na komputer uzywajac programu steam i sprawdz czy sie uruchamia.
-
-#### Ogarniacze
-- server discord, Jacek Brek
-- hostowanie gry, Pawel Szczeszek
+Termin: ???
 
 #### Ogolnie rzeczy ktore zostaly do ogarniecia:
-- kto bedzie odowiedzialny za zapasowy serwer RW
+- Trzeba wybrac gre. Glowni faworyci: Wormsy Armageddon / Age of Empires 2. Wszystkie propozycje: Wormsy, Heroes 3, Kozacy 3, age, Call of Duty 4.
 
 ##### Takie tam
 
