@@ -23,7 +23,9 @@ Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=
 Termin: ???
 
 #### Ogolnie rzeczy ktore zostaly do ogarniecia:
-- Trzeba wybrac gre. Glowni faworyci: Wormsy Armageddon / Age of Empires 2. Wszystkie propozycje: Wormsy, Heroes 3, Kozacy 3, age, Call of Duty 4.
+- Trzeba wybrac gre.
+- Glowni faworyci: Wormsy Armageddon / Age of Empires 2.
+- Wszystkie propozycje: Wormsy, Heroes 3, Kozacy 3, age, Call of Duty 4.
 - Wormsy i AEO2 troche kosztuja i nie wiem jak je instalowac
 
 ##### Takie tam
