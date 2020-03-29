@@ -27,6 +27,8 @@ Termin: ???
 - Glowni faworyci: Wormsy Armageddon / Age of Empires 2.
 - Wszystkie propozycje: Wormsy, Heroes 3, Kozacy 3, age, Call of Duty 4.
 - Wormsy i AEO2 troche kosztuja i nie wiem jak je instalowac
+- Trzeba zrobic research Worms Armageddon i AEO2 ktory zakonczy sie instrukcjami krok po kroku od zera do multiplayera.
+- Chetni do ogarniania prosze zglaszac sie na grupie na fejsbuku
 
 ##### Takie tam
 
