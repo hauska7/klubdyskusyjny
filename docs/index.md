@@ -8,8 +8,7 @@ Najblizsze spotkanie, termin: ???
 
 ### Rekomendacja 1% podatku w 2020
 
-#### Autorzy:
-
+Autorzy:
 [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1),
 [jeze](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=2),
 [Eryk Firlej](https://towers-of-trust.herokuapp.com/show_group/1?tab=members)
