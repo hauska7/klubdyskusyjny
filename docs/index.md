@@ -16,25 +16,22 @@ KRS: 0000507234
 cel: 22172
 
 
-### LAN party z chaty vol. 2
+### LAN games
 
 Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1)
 
-Termin: ???
+Grupa na messengerze https://www.messenger.com/t/3275616532465672
 
-#### Ogolnie rzeczy ktore zostaly do ogarniecia:
-- Trzeba wybrac gre.
-- Glowni faworyci: Wormsy Armageddon / Age of Empires 2 / Rusted Warfare.
-- Wszystkie propozycje: Wormsy, Heroes 3, Kozacy 3, age, Call of Duty 4.
-- Wormsy i AEO2 troche kosztuja i nie wiem jak je instalowac
-- Trzeba zrobic research Worms Armageddon i AEO2 ktory zakonczy sie instrukcjami krok po kroku od zera do multiplayera. Na linuxa tez.
-- Chetni do ogarniania prosze zglaszac sie na grupie na fejsbuku
+#### rzeczy do ogarniecia:
+- Reaserch project Worms Armageddon
+  - Ogarnac instrukcje od zera do multiplayera. Na Linuxa tez.
+- Research project Age of Empires 2
+  - Ogarnac instrukcje od zera do multiplayera. Na Linuxa tez.
+- Ogarnac LAN party z chaty vol. 2
 
-##### Takie tam
+Chetni do ogarniania prosze zglaszac sie na grupie na fejsbuku
 
-Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
-
-###### Rusted Warfare
+##### Rusted Warfare
 
 Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
 
@@ -43,3 +40,9 @@ Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
  3. Sciagnij gre na komputer uzywajac programu steam i sprawdz czy sie uruchamia.
 
 [Jak przekierowac porty zeby byc serwerem](https://portforward.com/rusted-warfare/)
+
+##### Takie tam
+
+Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
+
+Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, age, Call of Duty 4.
