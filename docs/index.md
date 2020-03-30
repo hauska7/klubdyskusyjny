@@ -50,6 +50,8 @@ Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
  2. Kup gre https://store.steampowered.com/app/647960/Rusted_Warfare__RTS/ (18zl)
  3. Sciagnij gre na komputer uzywajac programu steam i sprawdz czy sie uruchamia.
 
+ Alternatywnie gra podobno jest na thepiratebay.
+
 [Jak przekierowac porty zeby byc serwerem](https://portforward.com/rusted-warfare/)
 
 ##### Takie tam
