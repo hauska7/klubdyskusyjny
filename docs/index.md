@@ -1,3 +1,5 @@
+Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1)
+
 [Lista osob](https://towers-of-trust.herokuapp.com/show_group/1?tab=members)
 
 Grupa na messengerze: https://www.messenger.com/t/2315047325190781
@@ -5,7 +7,12 @@ Grupa na messengerze: https://www.messenger.com/t/2315047325190781
 Najblizsze spotkanie, termin: ???
 
 ### Rekomendacja 1% podatku w 2020
-#### [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1), [jeze](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=2), [Eryk Firlej](https://towers-of-trust.herokuapp.com/show_group/1?tab=members)
+
+#### Autorzy:
+
+[regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1),
+[jeze](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=2),
+[Eryk Firlej](https://towers-of-trust.herokuapp.com/show_group/1?tab=members)
 
 ##### [ziomek-poziomek](https://www.facebook.com/ziomekpoziomek2011/)
 
