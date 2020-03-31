@@ -34,12 +34,11 @@ Grupa na messengerze https://www.messenger.com/t/3275616532465672
 
 #### rzeczy do ogarniecia:
 - Ogarnac instrukcje / prosty sposob hostowania Rusted Warfare
+- Ogarnac instrukcje instalacji Rusted Warfare z torentow.
 - Ogarnac LAN party z chaty vol. 2
 - Research Achtung die kurve
   - Ogarniac instrukcje od zera do multiplayera.
 - Reaserch project Worms Armageddon
-  - Ogarnac instrukcje od zera do multiplayera. Na Linuxa tez.
-- Research project Age of Empires 2
   - Ogarnac instrukcje od zera do multiplayera. Na Linuxa tez.
 
 Chetni do ogarniania prosze zglaszac sie na grupie na fejsbuku
@@ -60,4 +59,4 @@ Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
 
 Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
-Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, age, Call of Duty 4.
+Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3, Achtung die kurve, Call of Duty 4.
