@@ -33,12 +33,14 @@ Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=
 Grupa na messengerze https://www.messenger.com/t/3275616532465672
 
 #### rzeczy do ogarniecia:
+- Ogarnac instrukcje / prosty sposob hostowania Rusted Warfare
+- Ogarnac LAN party z chaty vol. 2
+- Research Achtung die kurve
+  - Ogarniac instrukcje od zera do multiplayera.
 - Reaserch project Worms Armageddon
   - Ogarnac instrukcje od zera do multiplayera. Na Linuxa tez.
 - Research project Age of Empires 2
   - Ogarnac instrukcje od zera do multiplayera. Na Linuxa tez.
-- Ogarnac LAN party z chaty vol. 2
-- Ogarnac instrukcje / prosty sposob hostowania Rusted Warfare
 
 Chetni do ogarniania prosze zglaszac sie na grupie na fejsbuku
 
