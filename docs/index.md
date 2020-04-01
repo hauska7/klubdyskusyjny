@@ -32,14 +32,31 @@ Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=
 
 Grupa na messengerze https://www.messenger.com/t/3275616532465672
 
-#### rzeczy do ogarniecia:
+#### LAN party 2
+
+Termin: sobota 04.04 19:00
+
+Gra: Rusted Warfare
+
+Przygotowania: Ogarnac sobie Rusted Warfare wg instrukcji ponizej.
+
+Potrzeba:
+- Kto bedzie ogarniac discord.
+- Kto bedzie ogarniac serwer Rusted Warfare.
+- Kto bedzie ogarniac zapasowy serwer Rusted Warfare.
+- Sprawy organizacyjne
+  - Lista obecnosci
+  - Podzial na grupy
+  - Ustalic ustawienia gry np. z nukami / bez.
+
+#### Ogolnie rzeczy do ogarniecia:
 - Ogarnac instrukcje / prosty sposob hostowania Rusted Warfare
 - Ogarnac instrukcje instalacji Rusted Warfare z torentow.
 - Ogarnac LAN party z chaty vol. 2
-- Research Achtung die kurve
-  - Ogarniac instrukcje od zera do multiplayera.
-- Reaserch project Worms Armageddon
-  - Ogarnac instrukcje od zera do multiplayera. Na Linuxa tez.
+- Ogranac Achtung die kurve
+  - instrukcje od zera do multiplayera.
+- Ogarnac Worms Armageddon
+  - instrukcje od zera do multiplayera. Na Linuxa tez.
 
 Chetni do ogarniania prosze zglaszac sie na grupie na fejsbuku
 
