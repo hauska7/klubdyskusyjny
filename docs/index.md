@@ -38,7 +38,9 @@ Termin: sobota 04.04 19:00
 
 Gra: Rusted Warfare
 
-Przygotowania: Ogarnac sobie Rusted Warfare wg instrukcji ponizej.
+Przygotowania:
+- Ogarnac sobie Rusted Warfare wg instrukcji ponizej.
+- Wpisac sie na [liste obecnosci](https://docs.google.com/spreadsheets/d/12mQpgMthV_Gc167zWNq0Xbt0g61OfpW7I8hghtullAc/edit?usp=sharing)
 
 Koszt: ~ 18zl(gra)
 
