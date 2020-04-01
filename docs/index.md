@@ -32,7 +32,7 @@ Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=
 
 Grupa na messengerze https://www.messenger.com/t/3275616532465672
 
-#### LAN party 2
+#### LAN party z chaty 2
 
 Termin: sobota 04.04 19:00
 
