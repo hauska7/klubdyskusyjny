@@ -40,6 +40,8 @@ Gra: Rusted Warfare
 
 Przygotowania: Ogarnac sobie Rusted Warfare wg instrukcji ponizej.
 
+Koszt: ~ 18zl(gra)
+
 Potrzeba:
 - Kto bedzie ogarniac discord.
 - Kto bedzie ogarniac serwer Rusted Warfare.
