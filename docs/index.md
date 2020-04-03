@@ -90,8 +90,8 @@ I do what should be done
 I trust in one man
 
 we do what should be done
-&nbsp;
-&nbsp;
+<br/>
+<br/>
 jestem czlowiekiem
 
 robie to co sluszne
