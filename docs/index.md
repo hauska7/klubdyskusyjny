@@ -84,11 +84,18 @@ Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3,
 ### church of men
 
 I am a man
+
 I do what should be done
+
 I trust in one man
+
 we do what should be done
 
+
 jestem czlowiekiem
+
 robie to co sluszne
+
 ufam jednemu czlowiekowi
+
 razem robimy to co sluszne
