@@ -80,3 +80,15 @@ Potrzebny sprzet: komputer 1.8 Gh, myszka, sluchawki/mikrofon.
 Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
 Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3, Achtung die kurve, Call of Duty 4.
+
+### church of men
+
+I am a man
+I do what should be done
+I trust in one man
+we do what should be done
+
+jestem czlowiekiem
+robie to co sluszne
+ufam jednemu czlowiekowi
+razem robimy to co sluszne
