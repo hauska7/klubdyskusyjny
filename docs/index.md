@@ -90,8 +90,9 @@ I do what should be done
 I trust in one man
 
 we do what should be done
-<br/>
-<br/>
+
+#### kosciol czlowieka
+
 jestem czlowiekiem
 
 robie to co sluszne
