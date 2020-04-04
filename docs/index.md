@@ -81,7 +81,7 @@ Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
 Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3, Achtung die kurve, Call of Duty 4.
 
-###
+### The responsible men
 
 I am a man
 
@@ -89,9 +89,11 @@ I trust in one man
 
 I do what should be done
 
-we
+I am responsible
 
-####
+we are as each one
+
+#### Odpowiedzialni ludzie
 
 ja jestem czlowiekiem
 
@@ -99,4 +101,6 @@ ja ufam jednemu czlowiekowi
 
 ja robie to co sluszne
 
-my
+ja jestem odpowiedzialny
+
+my jako i kazdy z nas
