@@ -81,7 +81,7 @@ Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
 Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3, Achtung die kurve, Call of Duty 4.
 
-### church of men
+###
 
 I am a man
 
@@ -91,7 +91,7 @@ I do what should be done
 
 we
 
-#### kosciol czlowieka
+####
 
 ja jestem czlowiekiem
 
