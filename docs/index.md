@@ -85,22 +85,18 @@ Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3,
 
 I am a man
 
-I do what should be done
-
 I trust in one man
 
-we trust in one man
+I do what should be done
 
-we do what should be done
+together
 
 #### kosciol czlowieka
 
 jestem czlowiekiem
 
-robie to co sluszne
-
 ufam jednemu czlowiekowi
 
-razem ufamy jednemu czlowiekowi
+robie to co sluszne
 
-razem robimy to co sluszne
+razem
