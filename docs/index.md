@@ -89,6 +89,8 @@ I do what should be done
 
 I trust in one man
 
+we trust in one man
+
 we do what should be done
 
 #### kosciol czlowieka
@@ -98,5 +100,7 @@ jestem czlowiekiem
 robie to co sluszne
 
 ufam jednemu czlowiekowi
+
+razem ufamy jednemu czlowiekowi
 
 razem robimy to co sluszne
