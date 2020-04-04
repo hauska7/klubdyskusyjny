@@ -103,4 +103,4 @@ ja robie to co sluszne
 
 ja jestem odpowiedzialny
 
-my jako i kazdy z nas
+my jak i kazdy z nas
