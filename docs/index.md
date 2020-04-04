@@ -89,14 +89,14 @@ I trust in one man
 
 I do what should be done
 
-together
+we
 
 #### kosciol czlowieka
 
-jestem czlowiekiem
+ja jestem czlowiekiem
 
-ufam jednemu czlowiekowi
+ja ufam jednemu czlowiekowi
 
-robie to co sluszne
+ja robie to co sluszne
 
-razem
+my
