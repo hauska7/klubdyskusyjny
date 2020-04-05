@@ -84,10 +84,17 @@ Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3,
 ### The responsible men
 
 I am
+
 I judge
+
 I do
+
 with others
+
 I trust in one of us
+
 we trust in one of us
+
 we act as one
+
 we are the responsible men
