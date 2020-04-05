@@ -85,9 +85,9 @@ Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3,
 
 I am a man
 
-I trust in one man for jugement
+I trust in one man for jugement on good and evil
 
-I do what should be done
+I do good
 
 I am responsible for what I do and for my jugment
 
@@ -97,10 +97,10 @@ we trust in one man for jugement
 
 ja jestem czlowiekiem
 
-ja ufam jednemu czlowiekowi dla decyzji
+ja ufam jednemu czlowiekowi dla osadu dobra i zla
 
-ja robie to co sluszne
+ja czynie dobro
 
-ja jestem odpowiedzialny za to co robie i za swoje decyzje
+ja jestem odpowiedzialny za to co robie i za swoj osad
 
-my ufamy jednemu czlowiekowi dla decyzji
+my ufamy jednemu czlowiekowi dla osadu dobra i zla
