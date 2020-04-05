@@ -85,22 +85,22 @@ Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3,
 
 I am a man
 
-I trust in one man and their jugement
+I trust in one man and their jugement for all things
 
 I do what should be done
 
 I am responsible for what I do and for my jugment
 
-we trust in one man and their jugement
+we trust in one man and their jugement for all things
 
 #### Odpowiedzialni ludzie
 
 ja jestem czlowiekiem
 
-ja ufam jednemu czlowiekowi i jego osadowi
+ja ufam jednemu czlowiekowi i jego osadowi w kazdej sytuacji
 
 ja robie to co sluszne
 
 ja jestem odpowiedzialny za to co robie i za swoj osad
 
-my ufamy jednemu czlowiekowi i jego osadowi
+my ufamy jednemu czlowiekowi i jego osadowi w kazdej sytuacji
