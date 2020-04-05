@@ -87,7 +87,7 @@ I am
 
 I judge
 
-I do
+I act
 
 with others
 
