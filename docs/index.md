@@ -89,8 +89,6 @@ I judge
 
 I act
 
-with others
-
 I trust in one of us
 
 we trust in one of us
