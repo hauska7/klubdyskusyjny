@@ -97,10 +97,10 @@ we trust in one man and their jugement for all things
 
 ja jestem czlowiekiem
 
-ja ufam jednemu czlowiekowi i jego osadowi w kazdej sytuacji
+ja ufam jednemu czlowiekowi i jego osadowi dla kazdej sytuacji
 
 ja robie to co sluszne
 
 ja jestem odpowiedzialny za to co robie i za swoj osad
 
-my ufamy jednemu czlowiekowi i jego osadowi w kazdej sytuacji
+my ufamy jednemu czlowiekowi i jego osadowi dla kazdej sytuacji
