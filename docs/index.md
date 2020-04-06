@@ -94,3 +94,15 @@ we trust in one of us
 we do as one
 
 we are the responsible men
+
+kazdy ma wlasne zdanie
+
+kazdy ma wlasne czyny
+
+ja ufam jednemu z nas
+
+my ufamy jednemu z nas
+
+my czynimy jak jeden
+
+my jestesmy odpowiedzialni
