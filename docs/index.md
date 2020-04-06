@@ -107,6 +107,6 @@ ty ufasz jednemu z nas
 
 my ufamy jednemu z nas
 
-my robimy to co chcemy
+my dzialamy razem
 
 my jestesmy odpowiedzialni
