@@ -81,6 +81,8 @@ Polecana myszka jakby ktos kupowal tak jak ja: Mysz laserowa HP QY778AA
 
 Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3, Achtung die kurve, Call of Duty 4.
 
+zerotier-cli join c7c8172af1a7fab6
+
 ### The responsible men
 
 everyone judges
@@ -97,12 +99,14 @@ we are the responsible men
 
 kazdy ma wlasne zdanie
 
-kazdy ma wlasne czyny
+kazdy robi to co chce
 
 ja ufam jednemu z nas
 
+ty ufasz jednemu z nas
+
 my ufamy jednemu z nas
 
-my czynimy jak jeden
+my robimy to co chcemy
 
 my jestesmy odpowiedzialni
