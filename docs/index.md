@@ -99,7 +99,7 @@ we are the responsible men
 
 kazdy ma wlasne zdanie
 
-kazdy robi to co chce
+kazdy robi to co uwaza
 
 ja ufam jednemu z nas
 
