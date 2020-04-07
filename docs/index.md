@@ -63,11 +63,11 @@ Potencjalne gry: Wormsy, Heroes 3, Kozacy 3, Age of Empires 2, Age of Empires 3,
 
 zerotier-cli join c7c8172af1a7fab6
 
-### The responsible men
+### Responsible
 
-everyone judges
+everyone judges for themselves
 
-everyone acts
+everyone acts ad they see fit
 
 I trust in one of us
 
@@ -77,7 +77,9 @@ we trust in one of us
 
 we act as one
 
-we are the responsible men
+we are responsible
+
+#### Odpowiedzialni
 
 kazdy ma wlasne zdanie
 
