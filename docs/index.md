@@ -87,7 +87,7 @@ zerotier-cli join c7c8172af1a7fab6
 
 everyone judges
 
-everyone does
+everyone acts
 
 I trust in one of us
 
@@ -95,7 +95,7 @@ you trust in one of us
 
 we trust in one of us
 
-we do as one
+we act as one
 
 we are the responsible men
 
