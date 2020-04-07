@@ -91,6 +91,8 @@ everyone does
 
 I trust in one of us
 
+you trust in one of us
+
 we trust in one of us
 
 we do as one
