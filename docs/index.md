@@ -67,7 +67,7 @@ zerotier-cli join c7c8172af1a7fab6
 
 everyone judges for themselves
 
-everyone acts ad they see fit
+everyone acts as they see fit
 
 I trust in one of us
 
