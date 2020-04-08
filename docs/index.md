@@ -94,3 +94,5 @@ my ufamy jednemu z nas
 my dzialamy razem
 
 my jestesmy odpowiedzialni
+
+[Odpowiedzialni](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
