@@ -85,9 +85,7 @@ kazdy ma wlasne zdanie
 
 kazdy robi to co uwaza
 
-ja ufam jednemu z nas
-
-ty ufasz jednemu z nas
+kazdy z nas ufa jednemu z nas
 
 my ufamy jednemu z nas
 
