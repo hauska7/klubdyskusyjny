@@ -69,13 +69,11 @@ everyone judges for themselves
 
 everyone acts as they see fit
 
-I trust in one of us
-
-you trust in one of us
+everyone of us trusts in one of us
 
 we trust in one of us
 
-we act as one
+we act as together
 
 we are responsible
 
