@@ -87,8 +87,10 @@ kazdy z nas ufa jednemu z nas
 
 my ufamy jednemu z nas
 
+on nas prowadzi
+
 my dzialamy razem
 
-my jestesmy odpowiedzialni
+my jestesmy za nas odpowiedzialni
 
 [Odpowiedzialni](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
