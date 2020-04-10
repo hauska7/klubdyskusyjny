@@ -73,7 +73,9 @@ everyone of us trusts in one of us
 
 we trust in one of us
 
-we act as together
+he decides for all of us
+
+we act together
 
 we are responsible
 
@@ -87,10 +89,10 @@ kazdy z nas ufa jednemu z nas
 
 my ufamy jednemu z nas
 
-on nas prowadzi
+on decyduje za nas wszystkich
 
 my dzialamy razem
 
-my jestesmy za nas odpowiedzialni
+my jestesmy odpowiedzialni
 
 [Odpowiedzialni](https://towers-of-trust.herokuapp.com/show_group/3?tab=members)
