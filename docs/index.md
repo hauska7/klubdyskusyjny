@@ -73,7 +73,7 @@ everyone of us trusts in one of us
 
 we trust in one of us
 
-he decides for all of us
+one of us decides for all of us
 
 we act together
 
@@ -89,7 +89,7 @@ kazdy z nas ufa jednemu z nas
 
 my ufamy jednemu z nas
 
-on decyduje za nas wszystkich
+jeden z nas decyduje za nas wszystkich
 
 my dzialamy razem
 
