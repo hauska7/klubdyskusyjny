@@ -89,7 +89,7 @@ kazdy z nas ufa jednemu z nas
 
 my ufamy jednemu z nas
 
-jeden z nas decyduje za nas wszystkich
+jeden z nas decyduje za nas
 
 my dzialamy razem
 
