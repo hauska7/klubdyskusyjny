@@ -1,4 +1,6 @@
-Organizator: [regularsi](https://towers-of-trust.herokuapp.com/show_group/1?tab=tower&tower_id=1)
+Organizator: [Odpowiedzialni](https://hauska7.github.io/responsible)
+
+[Appka](https://salty-brook-05799.herokuapp.com)
 
 [Lista osob](https://towers-of-trust.herokuapp.com/show_group/1?tab=members)
 
