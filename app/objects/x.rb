@@ -21,10 +21,18 @@ class X
 
     case what
     when "category"
-      if a.key?(:name)
-        Category.find_by(name: a[:name])
-      elsif a.key?(:category_id)
-        Category.find_by(id: a[:category_id])
+      if a.is_a?(Hash)
+        if a.key?(:name)
+          Category.find_by(name: a[:name])
+        elsif a.key?(:category_id)
+          Category.find_by(id: a[:category_id])
+        else fail
+        end
+      elsif a.is_a?(String)
+        if a == "user_topics"
+          Category.find_by(name: "Dodane-przez-uzytkownikow")
+        else fail
+        end
       else fail
       end
     when "categories"
@@ -40,6 +48,13 @@ class X
         Topic.find_by(id: a[:topic_id])
       else fail
       end
+    when "enrolments"
+      if a[:round] == "1"
+        Enrolment.where(round: "1").to_a
+      elsif a.blank?
+        Enrolment.all.to_a
+      else fail
+      end
     else fail
     end
   end
@@ -48,6 +63,10 @@ class X
     options = { only_path: true }
 
     case what
+    when "root"
+      custom_options = { controller: "main", action: "home" }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
     when "login"
       custom_options = { controller: "main", action: "login", user: "admin" }
       custom_options.merge!(options)
@@ -70,12 +89,20 @@ class X
       custom_options.merge!(category_options)
       custom_options.merge!(options)
       Rails.application.routes.url_helpers.url_for(custom_options)
+    when "show_enrolments"
+      custom_options = { controller: "main", action: "show", what: "enrolments", round: a[:round] }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
     when "edit_topic"
       custom_options = { controller: "main", action: "show", what: "topic", topic_id: a[:topic].id, edit: "true" }
       custom_options.merge!(options)
       Rails.application.routes.url_helpers.url_for(custom_options)
     when "new_topic"
       custom_options = { controller: "main", action: "show", what: "new" }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
+    when "new_enrolment"
+      custom_options = { controller: "main", action: "show", what: "new_enrolment" }
       custom_options.merge!(options)
       Rails.application.routes.url_helpers.url_for(custom_options)
     when "delete_topic"
@@ -88,6 +115,10 @@ class X
       Rails.application.routes.url_helpers.url_for(custom_options)
     when "create_topic"
       custom_options = { controller: "main", action: "create", what: "topic" }
+      custom_options.merge!(options)
+      Rails.application.routes.url_helpers.url_for(custom_options)
+    when "create_enrolment"
+      custom_options = { controller: "main", action: "create", what: "enrolment" }
       custom_options.merge!(options)
       Rails.application.routes.url_helpers.url_for(custom_options)
     else fail

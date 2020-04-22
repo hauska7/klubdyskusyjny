@@ -1,6 +1,7 @@
 class MainController < ApplicationController
   def home
-    redirect_to X.path_for("show_random_topic_redirect")
+    @show_home = true
+    render template: "main"
   end
 
   def login
@@ -20,7 +21,12 @@ class MainController < ApplicationController
     when "random_topic_redirect"
       category = X.query("category", { category_id: params["category_id"] })
       topic = X.query("random_topic", { category_id: params["category_id"].presence }.compact )
-      return redirect_to X.path_for("show_topic", { topic: topic, category: category })
+      if topic
+        return redirect_to X.path_for("show_topic", { topic: topic, category: category })
+      else
+        topic = X.query("random_topic", { category_id: nil }.compact )
+        return redirect_to X.path_for("show_topic", { topic: topic })
+      end
     when "topic"
       @topic = X.query("topic", { topic_id: params["topic_id"] })
       @category = @topic.categories.first
@@ -34,34 +40,71 @@ class MainController < ApplicationController
 
       render template: "main"
     when "new"
-      @categories = X.query("categories")
+      if admin?
+        @categories = X.query("categories")
+        @new = true
+      elsif !admin?
+        @new_user_topic = true
+      else fail
+      end
 
-      @new = true
+      render template: "main"
+    when "new_enrolment"
+      @new_enrolment = true
+
+      render template: "main"
+    when "enrolments"
+      @enrolments = X.query("enrolments", params)
+      @show_enrolments = "enrolments"
 
       render template: "main"
     else fail
     end
   end
 
+  def admin?
+    session[:user].present?
+  end
+
   def create
-    category = X.query("category", params)
+    case params["what"]
+    when "topic"
+      X.transaction do
+        if admin?
+          category = X.query("category", params)
 
-    X.transaction do
-      unless category
-        category = Category.new(name: params["category_name"])
-        category.save!
+          unless category
+            category = Category.new(name: params["category_name"])
+            category.save!
+          end
+        elsif !admin?
+          category = X.query("category", "user_topics")
+        else fail
+        end
+
+        topic = Topic.build
+        topic.add_content("pl", params["topic_content"])
+        topic.save!
+
+        cat = Categorization.new
+        cat.category = category
+        cat.topic = topic
+        cat.save!
+
+        return redirect_to X.path_for("show_topic", { topic: topic })
       end
+    when "enrolment"
+      return redirect_to X.path_for("root") unless params["name"].present? && params["contact"].present?
 
-      topic = Topic.build
-      topic.add_content("pl", params["topic_content"])
-      topic.save!
+      enrolment = Enrolment.new
+      enrolment.name = params["name"]
+      enrolment.contact = params["contact"]
+      enrolment.round = "1"
+      enrolment.status = "created"
+      enrolment.save!
 
-      cat = Categorization.new
-      cat.category = category
-      cat.topic = topic
-      cat.save!
-
-      return redirect_to X.path_for("show_topic", { topic: topic })
+      return redirect_to X.path_for("show_enrolments", { round: "1" })
+    else fail
     end
   end
 

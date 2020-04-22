@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Klubdyskusyjny</title>
+    <title>klub dyskusyjny</title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -11,7 +11,10 @@
 
   <body>
   <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-      <a class="navbar-brand" href="<%=  %>">klub dyskusyjny app</a>
+      <a class="navbar-brand" href="<%= X.path_for('root') %>">klub dyskusyjny</a>
+      <a class="navbar-brand" href="<%= X.path_for('show_random_topic_redirect') %>">Tematy</a>
+      <a class="navbar-brand" href="<%= X.path_for('show_enrolments', { round: '1' }) %>">Zapisy</a>
+      <a class="navbar-brand" href="<%= X.path_for('new_topic') %>">Dodaj temat</a>
       <% if session[:user] == "admin" %>
         <% if @topic %>
           <a class="navbar-brand" href="<%= X.path_for('edit_topic', { topic: @topic }) %>">Edytuj temat</a>

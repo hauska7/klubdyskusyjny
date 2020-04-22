@@ -28,4 +28,9 @@ namespace :topics do
       end
     end
   end
+
+  task :create_user_topics_category => :environment do |task, args|
+    category = Category.new(name: "Dodane-przez-uzytkownikow")
+    category.save!
+  end
 end
